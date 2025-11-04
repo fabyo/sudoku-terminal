@@ -1,4 +1,4 @@
-# Sudoku Terminal em Golang <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+# <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> Sudoku Terminal em Golang 
 <img src="go-terminal.png" alt="Golang" width="200" />
 
 🚀 Primeiro projetinho em Go(brincando com terminal) melhor que fazer um hello world :)
