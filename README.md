@@ -7,9 +7,9 @@ Pequeno projetinho em Go que:
 - Usa cores no terminal
 - Esconde os zeros (espaços vazios) pintando-os de preto 😎
 
+![Sudoku rodando no terminal](sudoku-terminal.png)
+
 ## Como rodar
 
 ```bash
 go run main.go
-
-![Sudoku rodando no terminal](sudoku-terminal.png)
