@@ -11,3 +11,5 @@ Pequeno projetinho em Go que:
 
 ```bash
 go run main.go
+
+![Sudoku rodando no terminal](sudoku-terminal.png)
