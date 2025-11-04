@@ -1,0 +1,14 @@
+# Binários gerados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de build
+/bin/
+/build/
+/dist/
+
+# Módulos de dependência antigos
+vendor/
