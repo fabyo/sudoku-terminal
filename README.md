@@ -11,4 +11,3 @@ Pequeno projetinho em Go que:
 
 ```bash
 go run main.go
-```bash
