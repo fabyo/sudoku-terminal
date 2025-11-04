@@ -1,6 +1,6 @@
 # Sudoku Terminal em Go <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 
-🚀 Pequeno projetinho em Go(brincando com terminal) que:
+🚀 Primeiro projetinho em Go(brincando com terminal) melhor que fazer um hello world :)
 
 - Gera um tabuleiro completo de Sudoku (9x9)
 - Remove números para criar um puzzle
